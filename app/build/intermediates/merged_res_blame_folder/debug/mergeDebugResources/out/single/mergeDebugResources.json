@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_item_report.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_report.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_pending_reports.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_pending_reports.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_approved_reports.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_approved_reports.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xxxhdpi_ic_launcher_background.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xxxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_row_admin_report.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/row_admin_report.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/anim_slide_up.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/drawable_bg_gradient.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_main.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_admin_home.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_admin_home.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_item_reports.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_reports.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_report_detail.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_report_detail.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_dustbin.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_dustbin.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/anim_card_press.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/anim/card_press.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/drawable_glass_card.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/drawable/glass_card.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_successs.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_successs.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-mdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/drawable_glass_bg.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/drawable/glass_bg.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/anim_slide_in_right.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_item_simple.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_simple.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_login.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_admin.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/drawable_ripple.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/drawable/ripple.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/xml_backup_rules.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_my_reports.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_my_reports.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_disposal_map.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_disposal_map.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_scrap_map.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_scrap_map.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_rejected_reports.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_rejected_reports.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_list.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_list.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_item_admin_report.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_admin_report.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/drawable_bg_input.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/anim_fade_in.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/menu_drawer_menu.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_report_activity.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/report_activity.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_about.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_item_user_report.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_user_report.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/anim_slide_out_left.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_profile.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_activity_legal_disposal.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_legal_disposal.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-hdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/layout_item_my_report.xml.flat",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_my_report.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-debug-49:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.whereisbin.app-main-51:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    }
+]

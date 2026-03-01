@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/nav_reports"
+        android:title="My Reports"/>
+
+    <item
+        android:id="@+id/nav_legal"
+        android:title="Legal Disposal"/>
+
+    <item
+        android:id="@+id/nav_about"
+        android:title="About"/>
+
+    <item
+        android:id="@+id/nav_theme"
+        android:title="Toggle Theme"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"/>
+
+</menu>
+

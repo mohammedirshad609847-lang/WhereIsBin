@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+    <TextView
+        android:text="WhereisBin"
+        android:textSize="25dp"
+        android:layout_marginBottom="150dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text ="There is no Planet B"
+        android:layout_width="wrap_content"
+        android:textStyle ="bold"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"/>
+    <TextView
+        android:text =" Protect our planet, preserve the future,Go Green, "
+        android:layout_marginBottom="40dp"
+        android:textStyle ="bold"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginBottom="40dp"
+        android:text="Breathe Clean,and Save Earth, Save Life,"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:hint="Email"
+        android:textColorHint="#FFF"
+        android:textColor="#FFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:hint="Password"
+        android:textColorHint ="#FFF"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:height="25dp"
+        android:width="60dp"
+        android:textColor="#FFF"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"/>
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:text="Login"
+        style="@style/GlassButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:text="Register"
+        style="@style/GlassButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="90dp"/>
+
+
+</LinearLayout>

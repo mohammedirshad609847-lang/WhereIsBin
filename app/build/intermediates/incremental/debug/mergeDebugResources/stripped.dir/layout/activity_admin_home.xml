@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <Button
+        android:id="@+id/btnPending"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pending Complaints"/>
+
+    <Button
+        android:id="@+id/btnApproved"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Approved Reports"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btnRejected"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rejected Reports"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btnLogoutAdmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:layout_marginTop="10dp"/>
+</LinearLayout>

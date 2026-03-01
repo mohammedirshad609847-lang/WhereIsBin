@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_disposal_map.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_disposal_map.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_my_reports.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_my_reports.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_dustbin.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_dustbin.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/item_my_report.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_my_report.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/item_report.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_report.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_list.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_list.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_login.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_profile.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_scrap_map.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_scrap_map.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_pending_reports.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_pending_reports.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/item_admin_report.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_admin_report.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_admin.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/report_activity.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/report_activity.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_approved_reports.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_approved_reports.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_about.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/item_user_report.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_user_report.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_successs.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_successs.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/item_simple.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_simple.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_report_detail.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_report_detail.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_admin_home.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_admin_home.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_rejected_reports.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_rejected_reports.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/item_reports.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/item_reports.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/row_admin_report.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/row_admin_report.xml"
+    },
+    {
+        "merged": "com.example.whereisbin.app-mergeDebugResources-48:/layout/activity_legal_disposal.xml",
+        "source": "com.example.whereisbin.app-main-51:/layout/activity_legal_disposal.xml"
+    }
+]

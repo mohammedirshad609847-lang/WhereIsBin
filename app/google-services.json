@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433782114884",
+    "project_id": "whereisbin",
+    "storage_bucket": "whereisbin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433782114884:android:f2dd08ab46e67e049a0a11",
+        "android_client_info": {
+          "package_name": "com.example.whereisbin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOWLNjmkO4HBl9T5-klJF7bK5aO8y1B8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
